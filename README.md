@@ -10,7 +10,7 @@ Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciend
 
 
 
-Objetivo del Proyecto
+Objetivo del Proyecto: 
 El objetivo de este proyecto es aplicar técnicas de clustering no supervisado para explorar diferencias en la expresión génica entre subtipos de NSCLC, identificando patrones que puedan ayudar a distinguir entre adenocarcinoma y carcinoma de células escamosas.
 
 
