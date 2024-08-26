@@ -1,8 +1,12 @@
-Análisis de Expresión Génica en NSCLC: Clustering No Supervisado
+# Análisis de Expresión Génica en NSCLC: Clustering No Supervisado
 Este repositorio contiene un notebook de análisis de expresión génica en cáncer de pulmón no microcítico (NSCLC), utilizando técnicas de clustering no supervisado para diferenciar entre adenocarcinoma (AC) y carcinoma de células escamosas (SCC). El análisis se centra en identificar patrones de expresión génica entre los subtipos de NSCLC utilizando el dataset GSE10245.
 
-Ejecución desde Google Colab
+## Ejecución desde Google Colab
+
 Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciendo clic en el siguiente enlace:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mauriciocruzriveros/PCA-y-Clustering-DEMO/blob/main/pca_clustering_analysis.ipynb)
+
 
 
 
