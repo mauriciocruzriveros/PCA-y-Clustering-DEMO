@@ -5,8 +5,7 @@ Este repositorio contiene un notebook de análisis de expresión génica en cán
 
 Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciendo clic en el siguiente enlace:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mauriciocruzriveros/PCA-y-Clustering-DEMO/blob/main/pca_clustering_analysis.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mauriciocruzriveros/PCA-y-Clustering-DEMO/blob/main/PCA%20y%20Clustering%20DEMO.ipynb)
 
 
 
